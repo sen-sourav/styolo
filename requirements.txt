@@ -35,7 +35,6 @@ jsonschema-specifications==2023.12.1
 kiwisolver==1.4.5
 lazy_loader==0.4
 librosa
-numba
 llvmlite==0.41.1
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
