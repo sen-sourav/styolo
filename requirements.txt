@@ -34,8 +34,8 @@ jsonschema==4.23.0
 jsonschema-specifications==2023.12.1
 kiwisolver==1.4.5
 lazy_loader==0.4
-librosa==0.10.0  # Use the latest compatible version of librosa that might work with Python 3.12
-numba==0.56.4  # Use an older version of numba compatible with Python 3.11 or earlier
+librosa==0.10.0
+numba==0.56.4
 llvmlite==0.41.1
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
